@@ -1,0 +1,29 @@
+{
+  "name": "baer-back",
+  "version": "1.0.0",
+  "description": "buisness promotional website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshal-Shahid/baer-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshal-Shahid/baer-back/issues"
+  },
+  "homepage": "https://github.com/Anshal-Shahid/baer-back#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.3.0",
+    "nodemailer": "^6.9.13"
+  }
+}
